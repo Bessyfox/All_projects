@@ -1,7 +1,7 @@
 # Проект: Аналитический отчёт для салона Waves
 
 **Описание:** аналитический отчёт по выручке, расходам и эффективности промоакций для салона для кудрявых волос Waves.
-Проект выполнен в Google Таблицах.
+[Проект выполнен в Google Таблицах](https://docs.google.com/spreadsheets/d/1t0zvVOVuqNaRhmTAVHtMuMif33GOc8hi-WQ7af29QHM/edit?usp=sharing).
 
 ## Ситуация
 
