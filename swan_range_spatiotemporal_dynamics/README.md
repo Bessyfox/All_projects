@@ -1,7 +1,7 @@
 # Проект: Пространственно-временная динамика ареала лебедей в Северной Америке
 
 **Описание:** анализ смещения ареала трёх видов лебедей (*Cygnus olor*, *Cygnus buccinator*, *Cygnus columbianus*) в США и Канаде по данным GBIF за 1980–2023 гг. Данные о наблюдениях обогащены температурой и плотностью населения, выполнены кластеризация методом Уорда, трендовый анализ по сезонам и кластерам, непараметрические тесты, бутстрап и множественная регрессия. Главный вывод: кажущийся «дрейф ареала на юг» в значительной степени объясняется изменением структуры выборки, а не поведением птиц.
-[Проект выполнен в Jupyter Notebook](swan_range_spatiotemporal_dynamics/swan_range_spatiotemporal_dynamics.ipynb) (Python: pandas, numpy, scipy, statsmodels, scikit-learn, matplotlib, seaborn).
+[Проект выполнен в Jupyter Notebook](swan_range_spatiotemporal_dynamics.ipynb) (Python: pandas, numpy, scipy, statsmodels, scikit-learn, matplotlib, seaborn).
 
 ---
 
@@ -142,4 +142,4 @@
 * `images/` - графики для README.
 
 ---
-Отчёт по проекту представлен в виде [файла jupyter notebook](swan_range_spatiotemporal_dynamics/swan_range_spatiotemporal_dynamics.ipynb).
+Отчёт по проекту представлен в виде [файла jupyter notebook](swan_range_spatiotemporal_dynamics.ipynb).
