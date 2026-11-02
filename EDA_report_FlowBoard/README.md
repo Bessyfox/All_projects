@@ -132,7 +132,7 @@
 
 ## 5. Приложение: промпты, код, ссылка
 
-**Ноутбук:** [`project_sprint_04_SaaS_Martynova_N.ipynb`](https://github.com/Bessyfox/All_projects/tree/main/EDA_report_FlowBoard). Ячейки указаны по порядку в файле (нумерация с 0).
+**Ноутбук:** [`project_sprint_04_SaaS_Martynova_N.ipynb`](https://github.com/Bessyfox/All_projects/blob/main/EDA_report_FlowBoard/project_sprint_04_SaaS_Martynova_N.ipynb). Ячейки указаны по порядку в файле (нумерация с 0).
 
 ### 5.1. Перечень ключевых запросов к ИИ
 
